@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+	color: coral;
+background-image: url('bg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+	text-emphasis-position: above
+
+}
+ 
+div {
+	margin-left: 69.9px;
+	margin-right: 128px;
+	text-align: center;
+
+	
+}
+
+
+#page {
+    
+	width: 790px;
+}
+h1 {font-size: 0px;
+    font-family: inherit;
+    border-bottom: solid 9px black;width: 758px; margin-left: 333px; text-shadow: 2px 2px #FF0000;}
+	
+
